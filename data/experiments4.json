@@ -1,7 +1,7 @@
 {
     "experiments": [
         
-            { 
+        { 
             "technique": "AUTOCOMPASTE", 
             "granularity": "phrase",
             "data_file": "data/texts.json",
