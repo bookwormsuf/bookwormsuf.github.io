@@ -1,0 +1,39 @@
+{
+    "experiments": [
+        
+
+        
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "phrase - PRACTICE",
+            "data_file": "data/textpractice.json",
+            "stimuli": "Power attained" 
+        },
+        
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "sentence - PRACTICE",
+            "data_file": "data/textpractice.json",
+            "stimuli": "What is armstrong oscillator?" 
+        },
+        
+
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "paragraph - PRACTICE",
+            "data_file": "data/textpractice.json",
+            "stimuli": "What is armstrong oscillator? An oscillator that uses an isolation transformer to achieve positive feedback from output to input." 
+        },
+        
+      
+        
+        
+        ]
+}
+
+
+
+
+
+
+

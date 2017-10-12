@@ -1,0 +1,162 @@
+{
+    "experiments": [
+        
+            { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "phrase",
+            "data_file": "data/texts.json",
+            "stimuli": "Power attained" 
+        },
+        
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "sentence",
+            "data_file": "data/texts.json",
+            "stimuli": "What is armstrong oscillator?" 
+        },
+        
+
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "paragraph",
+            "data_file": "data/texts.json",
+            "stimuli": "What is armstrong oscillator? An oscillator that uses an isolation transformer to achieve positive feedback from output to input." 
+        },
+        
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "paragraph",
+            "data_file": "data/texts2.json",
+            "stimuli": "What is balanced bridge? Condition that occurs when a bridge circuit is adjusted to produce a zero output." 
+        },
+        
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "paragraph",
+            "data_file": "data/texts2.json",
+            "stimuli": "What is base biasing? A method of biasing a BJT in which the bias voltage is supplied to the base by means of a resistor." 
+        },
+        
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "paragraph",
+            "data_file": "data/texts2.json",
+            "stimuli": "What is AC coupling? Circuit that passes an AC signal while blocking a DC voltage." 
+        },
+
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "paragraph",
+            "data_file": "data/texts2.json",
+            "stimuli": "What is AC coupling? Circuit that passes an AC signal while blocking a DC voltage." 
+        },
+        
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "paragraph",
+            "data_file": "data/texts2.json",
+            "stimuli": "What is balanced bridge? Condition that occurs when a bridge circuit is adjusted to produce a zero output." 
+        },
+        
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "paragraph",
+            "data_file": "data/texts2.json",
+            "stimuli": "What is base biasing? A method of biasing a BJT in which the bias voltage is supplied to the base by means of a resistor." 
+        },
+        
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "phrase",
+            "data_file": "data/texts2.json",
+            "stimuli": "continuously varying voltage" 
+        },
+        
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "phrase",
+            "data_file": "data/texts2.json",
+            "stimuli": "a type of adjective" 
+        },
+        
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "phrase",
+            "data_file": "data/texts2.json",
+            "stimuli": "number of positive charges" 
+        },
+        
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "phrase",
+            "data_file": "data/texts22.json",
+            "stimuli": "number of positive charges" 
+        },
+        
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "phrase",
+            "data_file": "data/texts2.json",
+            "stimuli": "a type of adjective" 
+        },
+        
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "phrase",
+            "data_file": "data/texts2.json",
+            "stimuli": "continuously varying voltage" 
+        },
+        
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "sentence",
+            "data_file": "data/texts2.json",
+            "stimuli": "What is audio?" 
+        },
+        
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "sentence",
+            "data_file": "data/texts2.json",
+            "stimuli": "What is attenuate?" 
+        },
+        
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "sentence",
+            "data_file": "data/texts2.json",
+            "stimuli": "Unit of electrical current" 
+        },
+        
+        
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "sentence",
+            "data_file": "data/texts2.json",
+            "stimuli": "What is attenuate?" 
+        },
+        
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "sentence",
+            "data_file": "data/texts2.json",
+            "stimuli": "Unit of electrical current" 
+        },
+        
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "sentence",
+            "data_file": "data/texts2.json",
+            "stimuli": "What is audio?" 
+        }
+        
+        
+        ]
+}
+
+
+
+
+
+
+
